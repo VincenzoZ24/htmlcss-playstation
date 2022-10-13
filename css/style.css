@@ -83,3 +83,6 @@ main{
 .take_two_style .take_logo{
     width: 200px;
 }
+.cards_giochi{
+    background-color: rgba(31, 31, 31, 1);
+}
