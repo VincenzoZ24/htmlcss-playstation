@@ -1,11 +1,47 @@
 .list_style a{
     color: black;
 }
-.button_style.button-black{
+.section_sony{
+    height: 50px;
+    z-index: 3;
+    position: fixed;
+}
+.button_style{
     border-radius: 2rem;
     border: none;
     color: white;
-    background-color: black;
+   
     padding:.5rem;
 
+}
+.button-black{
+    background-color: black;
+}
+.nav_style{
+    position: fixed;
+    top: 50px;
+    left: 0;
+    right: 0;
+    z-index: 5;
+}
+   
+main{
+   position: absolute;
+   top: 126px;
+   left: 0;
+   right: 0;
+   
+}
+.returnal_style{
+    height: 70vh;
+    border-radius: 0;
+}
+.returnal_style img{
+    object-fit: cover;
+    object-position: right;
+    width: 100%;
+    height: 100%;
+}
+.button-red{
+    background-color: red;
 }
