@@ -86,3 +86,23 @@ main{
 .cards_giochi{
     background-color: rgba(31, 31, 31, 1);
 }
+.playstation_plus{
+    position: relative;
+    background-color: rgba(190, 188, 187, 1);
+}
+.img_plus{
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 130px;
+}
+.plus_logo{
+    width: 300px;
+}
+.button_plus{
+    color: rgba(45, 100, 230, 1);
+    font-size: 13px;
+    background-color: rgba(217, 218, 220, 1);
+}
