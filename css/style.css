@@ -59,3 +59,11 @@ main{
 .play_console{
     margin-bottom: 5rem;
 }
+.button-blue{
+    background-color: rgba(45, 100, 230, 1);
+}
+.img_playstation img{
+    width: 100%;
+    display: block;
+    
+}
