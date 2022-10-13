@@ -45,3 +45,7 @@ main{
 .button-red{
     background-color: red;
 }
+.cards_anteprima img{
+    width: 100%;
+    border-radius: 1rem;
+}
