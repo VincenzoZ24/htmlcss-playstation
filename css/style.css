@@ -49,3 +49,13 @@ main{
     width: 100%;
     border-radius: 1rem;
 }
+.cards_anteprima{
+    margin-bottom: 6rem;
+}
+.play_console div{
+    color: rgba(8, 118, 207, 1);
+    font-size: 12px;
+}
+.play_console{
+    margin-bottom: 5rem;
+}
