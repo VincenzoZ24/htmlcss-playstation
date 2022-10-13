@@ -1,3 +1,10 @@
 .list_style a{
     color: black;
 }
+.button_style.button-black{
+    border-radius: 2rem;
+    border: none;
+    color: white;
+    background-color: black;
+    padding:.5rem;
+}
