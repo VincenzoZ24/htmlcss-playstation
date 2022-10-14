@@ -56,6 +56,7 @@ main{
     object-position: right;
     width: 100%;
     height: 100%;
+    
 }
 .button-red{
     background-color: red;
@@ -63,9 +64,13 @@ main{
 .cards_anteprima img{
     width: 100%;
     border-radius: 1rem;
+    transition: 0.8s;
 }
 .cards_anteprima{
     margin-bottom: 6rem;
+}
+.cards_anteprima img:hover{
+    transform: translateY(-10px);
 }
 .play_console div{
     color: rgba(8, 118, 207, 1);
