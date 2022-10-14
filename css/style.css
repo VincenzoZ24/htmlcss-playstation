@@ -106,3 +106,6 @@ main{
     font-size: 13px;
     background-color: rgba(217, 218, 220, 1);
 }
+.sconti img{
+    width: 100%;
+}
