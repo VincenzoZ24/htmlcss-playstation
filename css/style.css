@@ -93,6 +93,7 @@ main{
 .dispositivi_ps5 .col:hover{
     border-bottom: 2px solid lightgray;
     transform: scale(1.5);
+    transition: 1s;
 }
 .take_two_style{
     height: 70vh;
