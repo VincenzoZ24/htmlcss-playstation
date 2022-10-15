@@ -48,7 +48,10 @@ main{
    top: 126px;
    left: 0;
    right: 0;
-   
+}
+.bottom-0 {
+    bottom: 0!important;
+    left: 0;
 }
 .returnal_style{
     height: 70vh;
@@ -170,4 +173,13 @@ main{
 }
 .social img{
     width: 100%;
+}
+.ps_footer{
+    background-color: rgba(0, 67, 156, 1);
+}
+footer{
+   margin-top: 5421.45px;
+}
+.ps_footer img{
+
 }
